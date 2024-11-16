@@ -736,8 +736,8 @@ public class PengelolaanKontakFrame extends javax.swing.JFrame {
 - Validasi input untuk memastikan nomor telepon yang dimasukan hanya berisi angka dan memiliki panjang yang sesuai
 - Fitur untuk mengekspor database ke file CSV dan mengimpor kontak dari file tersebut ke database.
 ## Screenshots
+![{3925E241-E654-4405-9D28-6CCFC9766302}](https://github.com/user-attachments/assets/185a58c0-5513-46c0-a8ec-ebc376fce46a)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
 ## Referensi
